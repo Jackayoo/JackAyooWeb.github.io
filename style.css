@@ -1,0 +1,23 @@
+h1 {
+  color:blue;
+  font-family:helvetica;
+  background-color: white
+}
+h1 {
+    border: 3px double pink
+    width: 50%
+    height: 50%
+}
+img {
+  color:blue;
+  background-color: white;
+  border: 3px double pink;
+  height: 50%
+  height: 50%
+  margin-left: 100px;
+}
+p {
+  color:blue;
+  background-color: white;
+  border: 3px double pink
+}
